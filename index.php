@@ -1,3 +1,3 @@
 <?php
-include_once("GCPwebpage.html");
+include_once("HEROKUwebpage.html");
 ?>
